@@ -1,4 +1,4 @@
-
+# 3D-Printer-Robotic-Club
 The Design of a custom 3D printer by the Robotics Club will have a fixed bed and a nozzle that can move in all the three axises X,Y,and Z.
 We have also designed the PCB to be used by the printer.
 
