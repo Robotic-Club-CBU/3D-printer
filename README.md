@@ -3,12 +3,12 @@ The Design of a custom 3D printer by the Robotics Club will have a fixed bed and
 We have also designed the PCB to be used by the printer.
 
 Main Components Used
-1.Nema 17 stepper Motors 
-2.Extruder
-3.Steel Casing and Supports 
+1. Nema 17 stepper Motors 
+2. Extruder
+3. Steel Casing and Supports 
 
 Softwares Used 
 1. Proteus 
-2.EasyED
-3.ThinkterCad
-4.SolidWorks
+2. EasyED
+3. ThinkterCad
+4. SolidWorks
